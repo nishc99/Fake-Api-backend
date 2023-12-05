@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "name": "Lufthansa",
+        "code": "LH",
+        "country": "Germany",
+        "founded": "1953",
+        "fleet_size": "300+",
+        "headquarters": "Cologne, Germany",
+        "website": "https://www.lufthansa.com/",
+        "destinations": [
+            {
+                "name": "New York",
+                "code": "JFK"
+            },
+            {
+                "name": "London",
+                "code": "LHR"
+            },
+            {
+                "name": "Paris",
+                "code": "CDG"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Emirates",
+        "code": "EK",
+        "country": "United Arab Emirates",
+        "founded": "1985",
+        "fleet_size": "250+",
+        "headquarters": "Dubai, UAE",
+        "website": "https://www.emirates.com/",
+        "destinations": [
+            {
+                "name": "Dubai",
+                "code": "DXB"
+            },
+            {
+                "name": "New York",
+                "code": "JFK"
+            },
+            {
+                "name": "London",
+                "code": "LHR"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "American Airlines",
+        "code": "AA",
+        "country": "United States",
+        "founded": "1930",
+        "fleet_size": "800+",
+        "headquarters": "Fort Worth, Texas, USA",
+        "website": "https://www.aa.com/",
+        "destinations": [
+            {
+                "name": "Los Angeles",
+                "code": "LAX"
+            },
+            {
+                "name": "Chicago",
+                "code": "ORD"
+            },
+            {
+                "name": "Miami",
+                "code": "MIA"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "British Airways",
+        "code": "BA",
+        "country": "United Kingdom",
+        "founded": "1974",
+        "fleet_size": "280+",
+        "headquarters": "London, UK",
+        "website": "https://www.britishairways.com/",
+        "destinations": [
+            {
+                "name": "London",
+                "code": "LHR"
+            },
+            {
+                "name": "New York",
+                "code": "JFK"
+            },
+            {
+                "name": "Hong Kong",
+                "code": "HKG"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Air France",
+        "code": "AF",
+        "country": "France",
+        "founded": "1933",
+        "fleet_size": "220+",
+        "headquarters": "Roissy-en-France, France",
+        "website": "https://www.airfrance.com/",
+        "destinations": [
+            {
+                "name": "Paris",
+                "code": "CDG"
+            },
+            {
+                "name": "New York",
+                "code": "JFK"
+            },
+            {
+                "name": "Tokyo",
+                "code": "NRT"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Qatar Airways",
+        "code": "QR",
+        "country": "Qatar",
+        "founded": "1993",
+        "fleet_size": "250+",
+        "headquarters": "Doha, Qatar",
+        "website": "https://www.qatarairways.com/",
+        "destinations": [
+            {
+                "name": "Doha",
+                "code": "DOH"
+            },
+            {
+                "name": "London",
+                "code": "LHR"
+            },
+            {
+                "name": "New York",
+                "code": "JFK"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Singapore Airlines",
+        "code": "SQ",
+        "country": "Singapore",
+        "founded": "1947",
+        "fleet_size": "130+",
+        "headquarters": "Singapore",
+        "website": "https://www.singaporeair.com/",
+        "destinations": [
+            {
+                "name": "Singapore",
+                "code": "SIN"
+            },
+            {
+                "name": "Tokyo",
+                "code": "NRT"
+            },
+            {
+                "name": "Sydney",
+                "code": "SYD"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Cathay Pacific",
+        "code": "CX",
+        "country": "Hong Kong",
+        "founded": "1946",
+        "fleet_size": "150+",
+        "headquarters": "Hong Kong",
+        "website": "https://www.cathaypacific.com/",
+        "destinations": [
+            {
+                "name": "Hong Kong",
+                "code": "HKG"
+            },
+            {
+                "name": "London",
+                "code": "LHR"
+            },
+            {
+                "name": "Los Angeles",
+                "code": "LAX"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Turkish Airlines",
+        "code": "TK",
+        "country": "Turkey",
+        "founded": "1933",
+        "fleet_size": "350+",
+        "headquarters": "Istanbul, Turkey",
+        "website": "https://www.turkishairlines.com/",
+        "destinations": [
+            {
+                "name": "Istanbul",
+                "code": "IST"
+            },
+            {
+                "name": "New York",
+                "code": "JFK"
+            },
+            {
+                "name": "London",
+                "code": "LHR"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Delta Air Lines",
+        "code": "DL",
+        "country": "United States",
+        "founded": "1924",
+        "fleet_size": "800+",
+        "headquarters": "Atlanta, Georgia, USA",
+        "website": "https://www.delta.com/",
+        "destinations": [
+            {
+                "name": "Atlanta",
+                "code": "ATL"
+            },
+            {
+                "name": "Los Angeles",
+                "code": "LAX"
+            },
+            {
+                "name": "New York",
+                "code": "JFK"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "ANA All Nippon Airways",
+        "code": "NH",
+        "country": "Japan",
+        "founded": "1952",
+        "fleet_size": "250+",
+        "headquarters": "Tokyo, Japan",
+        "website": "https://www.ana.co.jp/en/us/",
+        "destinations": [
+            {
+                "name": "Tokyo",
+                "code": "HND"
+            },
+            {
+                "name": "Osaka",
+                "code": "KIX"
+            },
+            {
+                "name": "Los Angeles",
+                "code": "LAX"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Etihad Airways",
+        "code": "EY",
+        "country": "United Arab Emirates",
+        "founded": "2003",
+        "fleet_size": "100+",
+        "headquarters": "Abu Dhabi, UAE",
+        "website": "https://www.etihad.com/",
+        "destinations": [
+            {
+                "name": "Abu Dhabi",
+                "code": "AUH"
+            },
+            {
+                "name": "London",
+                "code": "LHR"
+            },
+            {
+                "name": "New York",
+                "code": "JFK"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Qantas",
+        "code": "QF",
+        "country": "Australia",
+        "founded": "1920",
+        "fleet_size": "130+",
+        "headquarters": "Sydney, Australia",
+        "website": "https://www.qantas.com/",
+        "destinations": [
+            {
+                "name": "Sydney",
+                "code": "SYD"
+            },
+            {
+                "name": "Melbourne",
+                "code": "MEL"
+            },
+            {
+                "name": "Los Angeles",
+                "code": "LAX"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "KLM Royal Dutch Airlines",
+        "code": "KL",
+        "country": "Netherlands",
+        "founded": "1919",
+        "fleet_size": "120+",
+        "headquarters": "Amsterdam, Netherlands",
+        "website": "https://www.klm.com/",
+        "destinations": [
+            {
+                "name": "Amsterdam",
+                "code": "AMS"
+            },
+            {
+                "name": "New York",
+                "code": "JFK"
+            },
+            {
+                "name": "Paris",
+                "code": "CDG"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Air Canada",
+        "code": "AC",
+        "country": "Canada",
+        "founded": "1937",
+        "fleet_size": "180+",
+        "headquarters": "Montreal, Canada",
+        "website": "https://www.aircanada.com/",
+        "destinations": [
+            {
+                "name": "Toronto",
+                "code": "YYZ"
+            },
+            {
+                "name": "Vancouver",
+                "code": "YVR"
+            },
+            {
+                "name": "New York",
+                "code": "JFK"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "EVA Air",
+        "code": "BR",
+        "country": "Taiwan",
+        "founded": "1989",
+        "fleet_size": "80+",
+        "headquarters": "Taipei, Taiwan",
+        "website": "https://www.evaair.com/",
+        "destinations": [
+            {
+                "name": "Taipei",
+                "code": "TPE"
+            },
+            {
+                "name": "Los Angeles",
+                "code": "LAX"
+            },
+            {
+                "name": "Tokyo",
+                "code": "NRT"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Air China",
+        "code": "CA",
+        "country": "China",
+        "founded": "1988",
+        "fleet_size": "400+",
+        "headquarters": "Beijing, China",
+        "website": "https://www.airchina.com/",
+        "destinations": [
+            {
+                "name": "Beijing",
+                "code": "PEK"
+            },
+            {
+                "name": "Shanghai",
+                "code": "PVG"
+            },
+            {
+                "name": "Hong Kong",
+                "code": "HKG"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Aeroflot",
+        "code": "SU",
+        "country": "Russia",
+        "founded": "1923",
+        "fleet_size": "200+",
+        "headquarters": "Moscow, Russia",
+        "website": "https://www.aeroflot.ru/",
+        "destinations": [
+            {
+                "name": "Moscow",
+                "code": "SVO"
+            },
+            {
+                "name": "Saint Petersburg",
+                "code": "LED"
+            },
+            {
+                "name": "New York",
+                "code": "JFK"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Air New Zealand",
+        "code": "NZ",
+        "country": "New Zealand",
+        "founded": "1940",
+        "fleet_size": "60+",
+        "headquarters": "Auckland, New Zealand",
+        "website": "https://www.airnewzealand.com/",
+        "destinations": [
+            {
+                "name": "Auckland",
+                "code": "AKL"
+            },
+            {
+                "name": "Wellington",
+                "code": "WLG"
+            },
+            {
+                "name": "Sydney",
+                "code": "SYD"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "SAS Scandinavian Airlines",
+        "code": "SK",
+        "country": "Sweden",
+        "founded": "1946",
+        "fleet_size": "150+",
+        "headquarters": "Stockholm, Sweden",
+        "website": "https://www.flysas.com/",
+        "destinations": [
+            {
+                "name": "Stockholm",
+                "code": "ARN"
+            },
+            {
+                "name": "Copenhagen",
+                "code": "CPH"
+            },
+            {
+                "name": "Oslo",
+                "code": "OSL"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "South African Airways",
+        "code": "SA",
+        "country": "South Africa",
+        "founded": "1934",
+        "fleet_size": "40+",
+        "headquarters": "Johannesburg, South Africa",
+        "website": "https://www.flysaa.com/",
+        "destinations": [
+            {
+                "name": "Johannesburg",
+                "code": "JNB"
+            },
+            {
+                "name": "Cape Town",
+                "code": "CPT"
+            },
+            {
+                "name": "London",
+                "code": "LHR"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Air Asia",
+        "code": "AK",
+        "country": "Malaysia",
+        "founded": "1993",
+        "fleet_size": "250+",
+        "headquarters": "Kuala Lumpur, Malaysia",
+        "website": "https://www.airasia.com/",
+        "destinations": [
+            {
+                "name": "Kuala Lumpur",
+                "code": "KUL"
+            },
+            {
+                "name": "Bangkok",
+                "code": "BKK"
+            },
+            {
+                "name": "Singapore",
+                "code": "SIN"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "EgyptAir",
+        "code": "MS",
+        "country": "Egypt",
+        "founded": "1932",
+        "fleet_size": "60+",
+        "headquarters": "Cairo, Egypt",
+        "website": "https://www.egyptair.com/",
+        "destinations": [
+            {
+                "name": "Cairo",
+                "code": "CAI"
+            },
+            {
+                "name": "London",
+                "code": "LHR"
+            },
+            {
+                "name": "New York",
+                "code": "JFK"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Air India",
+        "code": "AI",
+        "country": "India",
+        "founded": "1932",
+        "fleet_size": "100+",
+        "headquarters": "New Delhi, India",
+        "website": "https://www.airindia.in/",
+        "destinations": [
+            {
+                "name": "New Delhi",
+                "code": "DEL"
+            },
+            {
+                "name": "Mumbai",
+                "code": "BOM"
+            },
+            {
+                "name": "London",
+                "code": "LHR"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Air Baltic",
+        "code": "BT",
+        "country": "Latvia",
+        "founded": "1995",
+        "fleet_size": "30+",
+        "headquarters": "Riga, Latvia",
+        "website": "https://www.airbaltic.com/",
+        "destinations": [
+            {
+                "name": "Riga",
+                "code": "RIX"
+            },
+            {
+                "name": "Tallinn",
+                "code": "TLL"
+            },
+            {
+                "name": "Vilnius",
+                "code": "VNO"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Norwegian Air Shuttle",
+        "code": "DY",
+        "country": "Norway",
+        "founded": "1993",
+        "fleet_size": "160+",
+        "headquarters": "Oslo, Norway",
+        "website": "https://www.norwegian.com/",
+        "destinations": [
+            {
+                "name": "Oslo",
+                "code": "OSL"
+            },
+            {
+                "name": "Copenhagen",
+                "code": "CPH"
+            },
+            {
+                "name": "Stockholm",
+                "code": "ARN"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Icelandair",
+        "code": "FI",
+        "country": "Iceland",
+        "founded": "1937",
+        "fleet_size": "30+",
+        "headquarters": "Reykjavik, Iceland",
+        "website": "https://www.icelandair.com/",
+        "destinations": [
+            {
+                "name": "Reykjavik",
+                "code": "KEF"
+            },
+            {
+                "name": "Copenhagen",
+                "code": "CPH"
+            },
+            {
+                "name": "Amsterdam",
+                "code": "AMS"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Avianca",
+        "code": "AV",
+        "country": "Colombia",
+        "founded": "1919",
+        "fleet_size": "100+",
+        "headquarters": "Bogota, Colombia",
+        "website": "https://www.avianca.com/",
+        "destinations": [
+            {
+                "name": "Bogota",
+                "code": "BOG"
+            },
+            {
+                "name": "Medellin",
+                "code": "MDE"
+            },
+            {
+                "name": "New York",
+                "code": "JFK"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Air Astana",
+        "code": "KC",
+        "country": "Kazakhstan",
+        "founded": "2001",
+        "fleet_size": "30+",
+        "headquarters": "Almaty, Kazakhstan",
+        "website": "https://airastana.com/",
+        "destinations": [
+            {
+                "name": "Almaty",
+                "code": "ALA"
+            },
+            {
+                "name": "Nur-Sultan",
+                "code": "NQZ"
+            },
+            {
+                "name": "Istanbul",
+                "code": "IST"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Air Mauritius",
+        "code": "MK",
+        "country": "Mauritius",
+        "founded": "1967",
+        "fleet_size": "10+",
+        "headquarters": "Port Louis, Mauritius",
+        "website": "https://www.airmauritius.com/",
+        "destinations": [
+            {
+                "name": "Port Louis",
+                "code": "MRU"
+            },
+            {
+                "name": "Johannesburg",
+                "code": "JNB"
+            },
+            {
+                "name": "Paris",
+                "code": "CDG"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Estonian Air",
+        "code": "OV",
+        "country": "Estonia",
+        "founded": "1991",
+        "fleet_size": "5+",
+        "headquarters": "Tallinn, Estonia",
+        "website": "https://www.estonian-air.ee/",
+        "destinations": [
+            {
+                "name": "Tallinn",
+                "code": "TLL"
+            },
+            {
+                "name": "Helsinki",
+                "code": "HEL"
+            },
+            {
+                "name": "Stockholm",
+                "code": "ARN"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Air Malta",
+        "code": "KM",
+        "country": "Malta",
+        "founded": "1973",
+        "fleet_size": "10+",
+        "headquarters": "Luqa, Malta",
+        "website": "https://www.airmalta.com/",
+        "destinations": [
+            {
+                "name": "Luqa",
+                "code": "MLA"
+            },
+            {
+                "name": "Rome",
+                "code": "FCO"
+            },
+            {
+                "name": "London",
+                "code": "LGW"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Air Tahiti Nui",
+        "code": "TN",
+        "country": "French Polynesia",
+        "founded": "1996",
+        "fleet_size": "5+",
+        "headquarters": "Papeete, French Polynesia",
+        "website": "https://www.airtahitinui.com/",
+        "destinations": [
+            {
+                "name": "Papeete",
+                "code": "PPT"
+            },
+            {
+                "name": "Los Angeles",
+                "code": "LAX"
+            },
+            {
+                "name": "Auckland",
+                "code": "AKL"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Allegiant Air",
+        "code": "G4",
+        "country": "United States",
+        "founded": "1997",
+        "fleet_size": "100+",
+        "headquarters": "Las Vegas, Nevada, USA",
+        "website": "https://www.allegiantair.com/",
+        "destinations": [
+            {
+                "name": "Las Vegas",
+                "code": "LAS"
+            },
+            {
+                "name": "Orlando",
+                "code": "SFB"
+            },
+            {
+                "name": "Los Angeles",
+                "code": "LAX"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Royal Jordanian",
+        "code": "RJ",
+        "country": "Jordan",
+        "founded": "1963",
+        "fleet_size": "25+",
+        "headquarters": "Amman, Jordan",
+        "website": "https://www.rj.com/",
+        "destinations": [
+            {
+                "name": "Amman",
+                "code": "AMM"
+            },
+            {
+                "name": "Cairo",
+                "code": "CAI"
+            },
+            {
+                "name": "London",
+                "code": "LHR"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Air Serbia",
+        "code": "JU",
+        "country": "Serbia",
+        "founded": "1927",
+        "fleet_size": "20+",
+        "headquarters": "Belgrade, Serbia",
+        "website": "https://www.airserbia.com/",
+        "destinations": [
+            {
+                "name": "Belgrade",
+                "code": "BEG"
+            },
+            {
+                "name": "Vienna",
+                "code": "VIE"
+            },
+            {
+                "name": "Zurich",
+                "code": "ZRH"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Garuda Indonesia",
+        "code": "GA",
+        "country": "Indonesia",
+        "founded": "1949",
+        "fleet_size": "140+",
+        "headquarters": "Jakarta, Indonesia",
+        "website": "https://www.garuda-indonesia.com/",
+        "destinations": [
+            {
+                "name": "Jakarta",
+                "code": "CGK"
+            },
+            {
+                "name": "Bali",
+                "code": "DPS"
+            },
+            {
+                "name": "Singapore",
+                "code": "SIN"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Royal Air Maroc",
+        "code": "AT",
+        "country": "Morocco",
+        "founded": "1957",
+        "fleet_size": "60+",
+        "headquarters": "Casablanca, Morocco",
+        "website": "https://www.royalairmaroc.com/",
+        "destinations": [
+            {
+                "name": "Casablanca",
+                "code": "CMN"
+            },
+            {
+                "name": "Marrakech",
+                "code": "RAK"
+            },
+            {
+                "name": "Paris",
+                "code": "CDG"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Finnair",
+        "code": "AY",
+        "country": "Finland",
+        "founded": "1923",
+        "fleet_size": "80+",
+        "headquarters": "Helsinki, Finland",
+        "website": "https://www.finnair.com/",
+        "destinations": [
+            {
+                "name": "Helsinki",
+                "code": "HEL"
+            },
+            {
+                "name": "Stockholm",
+                "code": "ARN"
+            },
+            {
+                "name": "Paris",
+                "code": "CDG"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Ethiopian Airlines",
+        "code": "ET",
+        "country": "Ethiopia",
+        "founded": "1945",
+        "fleet_size": "130+",
+        "headquarters": "Addis Ababa, Ethiopia",
+        "website": "https://www.ethiopianairlines.com/",
+        "destinations": [
+            {
+                "name": "Addis Ababa",
+                "code": "ADD"
+            },
+            {
+                "name": "Nairobi",
+                "code": "NBO"
+            },
+            {
+                "name": "Dubai",
+                "code": "DXB"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "LATAM Airlines",
+        "code": "LA",
+        "country": "Chile",
+        "founded": "2012",
+        "fleet_size": "140+",
+        "headquarters": "Santiago, Chile",
+        "website": "https://www.latam.com/",
+        "destinations": [
+            {
+                "name": "Santiago",
+                "code": "SCL"
+            },
+            {
+                "name": "Lima",
+                "code": "LIM"
+            },
+            {
+                "name": "Miami",
+                "code": "MIA"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Alitalia",
+        "code": "AZ",
+        "country": "Italy",
+        "founded": "1946",
+        "fleet_size": "90+",
+        "headquarters": "Rome, Italy",
+        "website": "https://www.alitalia.com/",
+        "destinations": [
+            {
+                "name": "Rome",
+                "code": "FCO"
+            },
+            {
+                "name": "Milan",
+                "code": "MXP"
+            },
+            {
+                "name": "New York",
+                "code": "JFK"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Swiss International Air Lines",
+        "code": "LX",
+        "country": "Switzerland",
+        "founded": "2002",
+        "fleet_size": "90+",
+        "headquarters": "Zurich, Switzerland",
+        "website": "https://www.swiss.com/",
+        "destinations": [
+            {
+                "name": "Zurich",
+                "code": "ZRH"
+            },
+            {
+                "name": "Geneva",
+                "code": "GVA"
+            },
+            {
+                "name": "London",
+                "code": "LHR"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Royal Brunei Airlines",
+        "code": "BI",
+        "country": "Brunei",
+        "founded": "1974",
+        "fleet_size": "15+",
+        "headquarters": "Bandar Seri Begawan, Brunei",
+        "website": "https://www.flyroyalbrunei.com/",
+        "destinations": [
+            {
+                "name": "Bandar Seri Begawan",
+                "code": "BWN"
+            },
+            {
+                "name": "Kuala Lumpur",
+                "code": "KUL"
+            },
+            {
+                "name": "Singapore",
+                "code": "SIN"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Oman Air",
+        "code": "WY",
+        "country": "Oman",
+        "founded": "1993",
+        "fleet_size": "50+",
+        "headquarters": "Muscat, Oman",
+        "website": "https://www.omanair.com/",
+        "destinations": [
+            {
+                "name": "Muscat",
+                "code": "MCT"
+            },
+            {
+                "name": "Dubai",
+                "code": "DXB"
+            },
+            {
+                "name": "London",
+                "code": "LHR"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Czech Airlines",
+        "code": "OK",
+        "country": "Czech Republic",
+        "founded": "1923",
+        "fleet_size": "20+",
+        "headquarters": "Prague, Czech Republic",
+        "website": "https://www.czechairlines.com/",
+        "destinations": [
+            {
+                "name": "Prague",
+                "code": "PRG"
+            },
+            {
+                "name": "Vienna",
+                "code": "VIE"
+            },
+            {
+                "name": "Amsterdam",
+                "code": "AMS"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Copa Airlines",
+        "code": "CM",
+        "country": "Panama",
+        "founded": "1947",
+        "fleet_size": "90+",
+        "headquarters": "Panama City, Panama",
+        "website": "https://www.copaair.com/",
+        "destinations": [
+            {
+                "name": "Panama City",
+                "code": "PTY"
+            },
+            {
+                "name": "Miami",
+                "code": "MIA"
+            },
+            {
+                "name": "Bogota",
+                "code": "BOG"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Fiji Airways",
+        "code": "FJ",
+        "country": "Fiji",
+        "founded": "1951",
+        "fleet_size": "10+",
+        "headquarters": "Nadi, Fiji",
+        "website": "https://www.fijiairways.com/",
+        "destinations": [
+            {
+                "name": "Nadi",
+                "code": "NAN"
+            },
+            {
+                "name": "Sydney",
+                "code": "SYD"
+            },
+            {
+                "name": "Los Angeles",
+                "code": "LAX"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Saudia",
+        "code": "SV",
+        "country": "Saudi Arabia",
+        "founded": "1945",
+        "fleet_size": "150+",
+        "headquarters": "Jeddah, Saudi Arabia",
+        "website": "https://www.saudia.com/",
+        "destinations": [
+            {
+                "name": "Jeddah",
+                "code": "JED"
+            },
+            {
+                "name": "Riyadh",
+                "code": "RUH"
+            },
+            {
+                "name": "Dubai",
+                "code": "DXB"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Sichuan Airlines",
+        "code": "3U",
+        "country": "China",
+        "founded": "1986",
+        "fleet_size": "100+",
+        "headquarters": "Chengdu, China",
+        "website": "https://www.sichuanair.com/",
+        "destinations": [
+            {
+                "name": "Chengdu",
+                "code": "CTU"
+            },
+            {
+                "name": "Beijing",
+                "code": "PEK"
+            },
+            {
+                "name": "Shanghai",
+                "code": "PVG"
+            }
+        ]
+    }
+]
